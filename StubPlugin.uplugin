@@ -1,0 +1,27 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Stub Plugin",
+	"Description" : "Absolute Mimn=nimum Plugin with a button in the UI",
+	"Category" : "StubPlugin",
+	"CreatedBy" : "Ben Halling",
+	"CreatedByURL" : "http://www.noirq.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "StubPlugin",
+			"Type" : "Editor",
+      "LoadingPhase": "Default",
+      "Enabled": false
+		}
+	]
+
+}
